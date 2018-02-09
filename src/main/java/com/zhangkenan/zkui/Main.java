@@ -15,9 +15,9 @@
  * the License.
  *
  */
-package com.deem.zkui;
+package com.zhangkenan.zkui;
 
-import com.deem.zkui.dao.Dao;
+import com.zhangkenan.zkui.dao.Dao;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Date;
